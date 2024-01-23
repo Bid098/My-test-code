@@ -1,4 +1,4 @@
-# App per la gestione di api e sse per la gestione della comunicazione backend - frontend
+# App per la gestione di api e sse per la comunicazione backend -> frontend
 Questa app è stata scritta sia per il backend che per il frontend per provare la comunicazione tra un web server node js e un frontend react
 
 il server contiene alcune api quali:
